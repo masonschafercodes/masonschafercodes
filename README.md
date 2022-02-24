@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mason Schafer</h1>
-<h3 align="center">A passionate Full Stack Developer from the US</h3>
+<h3 align="center">A Full Stack Developer from the US</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masonschafercodes&label=Profile%20views&color=b67900&style=flat" alt="masonschafercodes" /> </p>
 
