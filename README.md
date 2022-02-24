@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masonschafercodes&label=Profile%20views&color=b67900&style=flat" alt="masonschafercodes" /> </p>
 
-- 🔭 I’m currently working on [Recurrence](https://github.com/masonschafercodes/recur-frontend)
+- 🔭 I’m currently working on [Recurrence](https://recurrence.app/)
 
 - 🌱 I’m currently learning **Typescript, GraphQL, and Monorepos**
 
