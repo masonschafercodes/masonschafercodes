@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📄 Know about my experiences [https://masonschafer.tech/](https://masonschafer.tech/)
+- 📄 Learn more about me & checkout my projects [https://masonschafer.tech/](https://masonschafer.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
