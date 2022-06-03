@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=masonschafercodes&label=Profile%20views&color=b67900&style=flat" alt="masonschafercodes" /> </p>
 
-- 🔭 I’m currently working on [recurrence](https://recurrence.app/) and [cocreatrlab](https://cocreatrlab.vercel.app/)
+- 🔭 I’m currently working on a couple of mini-projects and a [Next.js Template](https://github.com/masonschafercodes/next-prisma-auth-template)
 
-- 🌱 I’m currently learning **Typescript, GraphQL, and Monorepos**
-
-- 💬 Ask me about **Anything!**
+- 🌱 I’m currently working on learning **Svelte**
 
 - 📄 Learn more about me & checkout my projects [https://masonschafer.tech/](https://masonschafer.tech/)
 
