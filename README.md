@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on a couple of mini-projects and a [Next.js Template](https://github.com/masonschafercodes/next-prisma-auth-template)
 
-- 🌱 I’m currently working on learning **Svelte**
+- 🌱 I’m currently working on learning **Rust** and **SvelteKit**
 
 - 📄 Learn more about me & checkout my projects [https://masonschafer.tech/](https://masonschafer.tech/)
 
